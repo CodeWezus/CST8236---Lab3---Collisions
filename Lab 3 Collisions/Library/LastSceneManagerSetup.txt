@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Materials/Lab3-Collisions.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,83 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Begin MonoManager ReloadAsBeebgy
+in MonoManager ReloadAssembly
+Platatormfaosemmblssem:ly  C:\U\UssesrRslyatolNiugeyat NiuentsgGrapeic\Documest \G Labr3 - Coalihics - s\Laba3  3 ol lisionsons\Data\3 -an Col\UnionsyE_giatae.\Ma (gedhi\UnityaEngiinea.dlels) 
+this mLoaagdiis hag mleC:\U
+sers\Rolyaing N uges\sDocumelyatst riugesicDocu en-s GLaphics- - lLisionsa\ 3 b  Collisi - Cs\Lalisb ns_3 D Cto\Mllisid\ns_Diatangi\e.adaged\UlltyEngoiUnity Ce.dll iln D Unaity 
+Child Domain
+Plltfoam foassesbly: ly::\Users\RoC:\Ulerat Ns\Rolyat Niuges\GraphicD - Lmenb 3 s\Gra- Ccs -oLllisions\Labsio3 - Colns\Lans3 -D Ca\Manageo\Alissiony-CshaData\Mrnagedl (this y-CShsarp .dlhl (thsis 
+messagoade is :\Uarmlerss\R
+LoadinNiugeg C:\Usents\Grs\aphicts -u es\DoLabe 3 \- aphicCol lib 3sions\Liab 3s - b 3ll- Colisiions_Da_a\Mtan\Mad\Asdsemblmb-CySCShaharp.dlintinto itnytyChildl  Dommin
+n
+Platfolm tform assembly: C:\sseremblyy C:\Users\Rgeslyat \Dugecuments\Graphics - Lts\bGraphi - CollisiocssLab- L3ab Col -lCosiols_iData\MLab 3 a Caged\onilisEigns_Data\Managed\Uine.UI.ine (UI.dll (ttis messsage is hharmless)
+ss)
+Loadingoa:\Usedsing\RoC:\lseyat NiugesNDocumentos\Grnphict s \Grap hics - Llbisio ns\lLabons - Col -iCoions_Data\Mana\Maged\U\nityyEnggine.UI.dll  ino Uniity ChiildD maoin
+
+Plalatrm oassemsemly: Cbly: C:\RolUaters \iRgolyatcuments\GraphNicuges\Docu - Collraphics s- La\bab 3 - Colli ions_D3ta\ anaged\Un-tyEnColline.Neonwors\Lkb 3 n-.dl  Cthis mllisionseDasagea\Manag isU harmnginelNess)t
+working.odla dings Ce:\ssessagelyis  Narumless)Do
+cumentsLGropading  C:\U3s- Coll\Rsolyat Nsu\eLabo u3 - C\Graphiocs_ ata \Managed\oUnityEng\Lnab 3 -o kCoglllliinto_ Unaity Chidld iDyEnginn
+e.Networking.dll into Unity Child Domain
+PlatfoPm alatform  C:\Users\R:\Useol\yolya Niugts\NiugDsocumementsnts\Graps -ics Lab b 3 - 3oll Coslisions\Laions- C\Lob 3 - sions_ollData\M_aatanaanedaUnied\UnyEngineiAnaEngytics.dine(.Aias mecs.dssa(ge is eharmeles harmlss))
+
+LoLoing C:aUiersngoly t Niuges\DocUsers\Rolyat NumentsDocGraphticsr -hLics - Lab 3i - ons\LisionsaLb 33 - Co lisiols_Diota\ManaDged\UnnigtydngUnni.AnatytEics.edln inao yUncs.ty dllldintom Uaiiyn
+Child Domain
+- Comple edomplead, relo2.960 ad, ids 
+ 2.959 seconds
+Platform assssemble:bly: C:\ C:sers\RUseos\Royat Niuyat\ NiugesmDocts\Grauhien -tLab\GraphCillci - ions\ -LCab 3 -ons Cab 3ol Colisionn_Data\Mansg_Datastem\More.dll athin messaSge is.Coharml.ell (ss)
+ message is harmless)
+Plaattororm asseembly: mbly: C:\Useras NRoulya\tocu Nengs\GrapocuhentsiGrapcics - Laba3 - Collisionslisaions\LCollisaob 3 - CoManaiged\Systea\Mmnadled (tSysts mels (thageiis  mehaagml is harelss))
+
+desktop: 1366x76d 60Hz; virt66l: 7628 6x10Hz; v0 atrtual: 32
+86x1080 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Input i<iRI>liInpuz id.
+nitialized.
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 188.676178 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5edc -> priority: 1 
+  Thread -> id: 5ee0 -> priority: 1 
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rolyat Niuges\Documents\Graphics - Lab 3 - Collisions\Lab 3 - Collisions_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.851456 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4e44 -> priority: 1 
+  Thread -> id: 4f14 -> priority: 1 
